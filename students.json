@@ -1,0 +1,623 @@
+[
+    {
+        "name": "Linus Torvalds",
+        "scores": [
+            72,
+            68,
+            75
+        ],
+        "absences": 5
+    },
+    {
+        "name": "Reza Esmaeilzadeh",
+        "scores": [
+            92,
+            95,
+            94
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Rozhin Anousha",
+        "scores": [
+            89,
+            93,
+            91
+        ],
+        "absences": 1
+    },
+    {
+        "name": "Nima Anoushan",
+        "scores": [
+            94,
+            90,
+            96
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Mohaddeseh Babaei Sarj",
+        "scores": [
+            88,
+            92,
+            90
+        ],
+        "absences": 1
+    },
+    {
+        "name": "Nima Bakhor",
+        "scores": [
+            91,
+            87,
+            93
+        ],
+        "absences": 2
+    },
+    {
+        "name": "Sayman Bagherzadeh",
+        "scores": [
+            95,
+            98,
+            96
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Amin Pakjoo",
+        "scores": [
+            86,
+            91,
+            89
+        ],
+        "absences": 1
+    },
+    {
+        "name": "Seyed Araz Pouraghdam",
+        "scores": [
+            93,
+            95,
+            92
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Aylin Tabrizi",
+        "scores": [
+            97,
+            94,
+            98
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Amir Abolfazl Jafarzadeh",
+        "scores": [
+            89,
+            86,
+            91
+        ],
+        "absences": 2
+    },
+    {
+        "name": "Arian Harbi",
+        "scores": [
+            92,
+            94,
+            90
+        ],
+        "absences": 1
+    },
+    {
+        "name": "Mobin Hasani",
+        "scores": [
+            90,
+            93,
+            95
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Amir Khezri",
+        "scores": [
+            87,
+            90,
+            88
+        ],
+        "absences": 1
+    },
+    {
+        "name": "Aynaz Dorostkar Rouhani",
+        "scores": [
+            96,
+            92,
+            95
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Ahoura Saeidpour",
+        "scores": [
+            91,
+            94,
+            93
+        ],
+        "absences": 1
+    },
+    {
+        "name": "Seyed Yaser Seyedi Taljar",
+        "scores": [
+            88,
+            91,
+            87
+        ],
+        "absences": 2
+    },
+    {
+        "name": "Amir Mohammad Shokri",
+        "scores": [
+            94,
+            97,
+            95
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Shayan Abbaszadeh",
+        "scores": [
+            89,
+            92,
+            91
+        ],
+        "absences": 1
+    },
+    {
+        "name": "Taha Eyvazi",
+        "scores": [
+            93,
+            89,
+            94
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Soma Ghaderi",
+        "scores": [
+            95,
+            96,
+            98
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Nazanin Ghasemi",
+        "scores": [
+            91,
+            93,
+            90
+        ],
+        "absences": 1
+    },
+    {
+        "name": "Donald Knuth",
+        "scores": [
+            74,
+            70,
+            77
+        ],
+        "absences": 6
+    },
+    {
+        "name": "Amir Ehsan Motazaker",
+        "scores": [
+            87,
+            89,
+            92
+        ],
+        "absences": 2
+    },
+    {
+        "name": "Matin Majidi",
+        "scores": [
+            94,
+            91,
+            95
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Amir Hossein Mohammadi",
+        "scores": [
+            90,
+            94,
+            92
+        ],
+        "absences": 1
+    },
+    {
+        "name": "Hesam Mollazadeh",
+        "scores": [
+            88,
+            86,
+            90
+        ],
+        "absences": 1
+    },
+    {
+        "name": "Meysam Nasrollahzadeh",
+        "scores": [
+            92,
+            95,
+            93
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Nahal Nichalani",
+        "scores": [
+            97,
+            95,
+            99
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Reyhaneh Vahabi Rad",
+        "scores": [
+            89,
+            93,
+            91
+        ],
+        "absences": 1
+    },
+    {
+        "name": "Sadra Karimi Baloo",
+        "scores": [
+            93,
+            90,
+            94
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Nima Faghih",
+        "scores": [
+            86,
+            89,
+            88
+        ],
+        "absences": 2
+    },
+    {
+        "name": "Amir Reza Kamali Aghdam",
+        "scores": [
+            95,
+            92,
+            96
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Araz Ahmadi Khoyi",
+        "scores": [
+            91,
+            94,
+            92
+        ],
+        "absences": 1
+    },
+    {
+        "name": "Fatemeh Asgharzadeh",
+        "scores": [
+            96,
+            98,
+            95
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Hanieh Aghgonbadi",
+        "scores": [
+            89,
+            91,
+            93
+        ],
+        "absences": 1
+    },
+    {
+        "name": "Milad Anvari Gharabaghloo",
+        "scores": [
+            87,
+            90,
+            89
+        ],
+        "absences": 2
+    },
+    {
+        "name": "Ken Thompson",
+        "scores": [
+            78,
+            81,
+            76
+        ],
+        "absences": 4
+    },
+    {
+        "name": "Mohammad Ounagh",
+        "scores": [
+            92,
+            94,
+            91
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Mahsa Bostani",
+        "scores": [
+            94,
+            96,
+            93
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Samin Besharat Rezaei",
+        "scores": [
+            90,
+            88,
+            92
+        ],
+        "absences": 1
+    },
+    {
+        "name": "Nadia Parsa Chongharaloo",
+        "scores": [
+            95,
+            93,
+            97
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Ayda Partovi Gharabagh",
+        "scores": [
+            88,
+            92,
+            90
+        ],
+        "absences": 1
+    },
+    {
+        "name": "Ozra Pazhouhi",
+        "scores": [
+            91,
+            89,
+            94
+        ],
+        "absences": 1
+    },
+    {
+        "name": "Taha Jafarzadeh Zangalani",
+        "scores": [
+            93,
+            95,
+            91
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Mohammad Reza Jangi Ghayeh Bolaghi",
+        "scores": [
+            87,
+            91,
+            88
+        ],
+        "absences": 2
+    },
+    {
+        "name": "Mahlagha Hanifi",
+        "scores": [
+            96,
+            94,
+            97
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Sevil Khorramdel",
+        "scores": [
+            90,
+            93,
+            92
+        ],
+        "absences": 1
+    },
+    {
+        "name": "Melisa Rahimi Adl",
+        "scores": [
+            94,
+            92,
+            95
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Golsa Razzaghi Tapeh",
+        "scores": [
+            89,
+            87,
+            91
+        ],
+        "absences": 1
+    },
+    {
+        "name": "Parnia Rasoulian",
+        "scores": [
+            97,
+            96,
+            98
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Hasan Salari Yaghlan Tapeh",
+        "scores": [
+            86,
+            90,
+            88
+        ],
+        "absences": 2
+    },
+    {
+        "name": "Sonay Shahmohammadi Ousaloo",
+        "scores": [
+            92,
+            95,
+            94
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Mohammad Sadeghi Topragh Ghalعه",
+        "scores": [
+            88,
+            91,
+            90
+        ],
+        "absences": 1
+    },
+    {
+        "name": "Amir Reza Sadeghi Siahkali",
+        "scores": [
+            93,
+            94,
+            96
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Masoumeh Taherabadi",
+        "scores": [
+            91,
+            89,
+            92
+        ],
+        "absences": 1
+    },
+    {
+        "name": "Sama Alizadeh",
+        "scores": [
+            95,
+            97,
+            94
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Shilan Farhang",
+        "scores": [
+            89,
+            92,
+            90
+        ],
+        "absences": 1
+    },
+    {
+        "name": "Nesa Mohammadpour",
+        "scores": [
+            94,
+            91,
+            93
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Farinaz Mohammadzadeh",
+        "scores": [
+            87,
+            89,
+            91
+        ],
+        "absences": 2
+    },
+    {
+        "name": "Seyed Mojtaba Mahmoudi",
+        "scores": [
+            92,
+            96,
+            94
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Elina Marandi",
+        "scores": [
+            96,
+            95,
+            98
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Marjan Mashhadi",
+        "scores": [
+            90,
+            92,
+            89
+        ],
+        "absences": 1
+    },
+    {
+        "name": "Sina Maghsoudi",
+        "scores": [
+            93,
+            91,
+            95
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Arian Nabizadeh Zolpirani",
+        "scores": [
+            88,
+            90,
+            87
+        ],
+        "absences": 2
+    },
+    {
+        "name": "Parsa Nazm Kordlar",
+        "scores": [
+            95,
+            94,
+            96
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Parham Naghinezhad",
+        "scores": [
+            91,
+            93,
+            92
+        ],
+        "absences": 1
+    },
+    {
+        "name": "Ali Nouri",
+        "scores": [
+            94,
+            97,
+            95
+        ],
+        "absences": 0
+    },
+    {
+        "name": "Ada Lovelace",
+        "scores": [
+            82,
+            79,
+            84
+        ],
+        "absences": 4
+    }
+]
